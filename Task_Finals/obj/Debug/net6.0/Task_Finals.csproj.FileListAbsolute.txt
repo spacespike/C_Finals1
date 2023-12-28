@@ -1,0 +1,15 @@
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/Task_Finals.csproj.AssemblyReference.cache
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/Task_Finals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/Task_Finals.AssemblyInfoInputs.cache
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/Task_Finals.AssemblyInfo.cs
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/Task_Finals.csproj.CoreCompileInputs.cache
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/bin/Debug/net6.0/Task_Finals
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/bin/Debug/net6.0/Task_Finals.deps.json
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/bin/Debug/net6.0/Task_Finals.runtimeconfig.json
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/bin/Debug/net6.0/Task_Finals.dll
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/bin/Debug/net6.0/Task_Finals.pdb
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/Task_Finals.dll
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/refint/Task_Finals.dll
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/Task_Finals.pdb
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/Task_Finals.genruntimeconfig.cache
+/Users/huckleberry/Documents/Development/GB_Studying/C#/Finals/Task_Finals/obj/Debug/net6.0/ref/Task_Finals.dll
